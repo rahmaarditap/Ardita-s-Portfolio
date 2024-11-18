@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9e80fb0b-2bdc-400a-8d52-f430cca20e4c)# Ardita's Portfolio
+# Ardita's Portfolio
 
 | **No.** |   **Project**                          |   **Tools**          | **Skills**                     |  **Project Description**                |
 |---|-----------------------------------------|-----------------------|--------------------------------|-------------------------------------------|
